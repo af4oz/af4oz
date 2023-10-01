@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on Dev [challenges](https://devchallenges.io). -->
 
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on Typescript/other lang based Frontend/Backend projects.
 - 💬 Ask me about Frontend Development.
 - 📫 How to reach me: [Mail](mailto:broken.vagrant@gmail.com),[Twitter](https://twitter.com/broken_vagrant).
