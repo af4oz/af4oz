@@ -3,7 +3,6 @@
 - 👯 I can develop Web & Mobile apps, Backend API's with the help of proven/widely-used open-source tools.
 - 💬 Ask me about Frontend Development [here](https://github.com/broken-vagrant/broken-vagrant/issues).
 - 📫 How to reach me: [Mail](mailto:broken.vagrant@gmail.com),[Twitter](https://twitter.com/broken_vagrant).
-- 😄 Pronouns: He/Him
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
