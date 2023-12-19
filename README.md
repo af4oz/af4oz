@@ -1,5 +1,5 @@
 ### Hi there 👋
-# - 🌱 I’m currently learning AWS.
+<!-- - 🌱 I’m currently learning AWS. -->
 - 👯 I can develop Web & Mobile apps, Backend API's with the help of proven/widely-used open-source tools.
 - 💬 Ask me about Frontend Development [here](https://github.com/broken-vagrant/broken-vagrant/issues).
 - 📫 How to reach me: [Mail](mailto:broken.vagrant@gmail.com).
