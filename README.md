@@ -11,9 +11,9 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-<a href="https://github-readme-stats.vercel.app" target="_blank">
+<!-- <a href="https://github-readme-stats.vercel.app" target="_blank">
   <img height=200 align="center" alt="Public github contributions by Afroz" src="https://github-readme-stats.vercel.app/api?username=af4oz" />
-</a>
+</a> -->
 <a href="https://github-readme-stats.vercel.app" target="_blank">
   <img height=200 align="center" alt="Most used languages on public github repos by Afroz" src="https://github-readme-stats.vercel.app/api/top-langs?username=af4oz&layout=compact&langs_count=8&card_width=320" />
 </a>
